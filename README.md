@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @geekyquark1990
+- 👀 I’m interested in badminton
+- 🌱 I’m currently learning python
